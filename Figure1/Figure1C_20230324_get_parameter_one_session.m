@@ -65,7 +65,7 @@ use_trial4 = intersect(use_trial4,use_trial_all);
 [choice_stim4, right_trial4, number_trial4] = ...
     psycho_plot2(Outcome, Correct_side, Chosen_side, EvidenceStrength, use_evidence, use_trial4);
 
-%%%Binominal‚Åfitting‚·‚éBLogistic regression
+%%%Binominalâ€šÃ…fittingâ€šÂ·â€šÃ©ÂBLogistic regression
 b_all = glmfit(tone_evidence',[right_trial_all' number_trial_all'],'binomial','link','logit');
 b2 = glmfit(tone_evidence',[right_trial2' number_trial2'],'binomial','link','logit');
 b3 = glmfit(tone_evidence',[right_trial3' number_trial3'],'binomial','link','logit');
@@ -217,7 +217,7 @@ function [use_para, ave_likeli, BIC_all, log_likelihood] = BIC_logistic_regressi
 %Log(likelihood) = Tn*logYn + (1-Tn)*log(1-Yn)
 %Yn = 1/(1+exp(-bx))
 %Tn is the answer
-%Above equations are from Bishopã, pp. 205
+%Above equations are from BishopÂÃ£, pp. 205
 
 number_para = find(use_para == 1);
 init_para = init_para(number_para);
