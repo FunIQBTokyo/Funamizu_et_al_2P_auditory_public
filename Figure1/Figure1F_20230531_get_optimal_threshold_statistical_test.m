@@ -141,18 +141,3 @@ lme = fitlme_analysis_20210520_0(rew_sabun,N_subject);
 lme(2).lme
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-function r = find_max_psycho(para, use_uncertainty, stim_para, stim_prob, reward)
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-r(1) = reward(1) .* stim_prob(1) .* stim_para(1) .* (1-1/(1+exp(para)));
-r(2) = reward(1) .* stim_prob(1) .* stim_para(2) .* (1-1/(1+exp(-0.25*use_uncertainty+para)));
-r(3) = reward(1) .* stim_prob(1) .* stim_para(3) .* (1-1/(1+exp(-0.45*use_uncertainty+para)));
-r(4) = reward(2) .* stim_prob(2) .* stim_para(4) .* (1/(1+exp(-0.55*use_uncertainty+para)));
-r(5) = reward(2) .* stim_prob(2) .* stim_para(5) .* (1/(1+exp(-0.75*use_uncertainty+para)));
-r(6) = reward(2) .* stim_prob(2) .* stim_para(6) .* (1/(1+exp(-use_uncertainty+para)));
-
-r = -sum(r);
-
-return
-
