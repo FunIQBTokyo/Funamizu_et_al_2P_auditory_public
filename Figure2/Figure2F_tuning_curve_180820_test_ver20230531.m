@@ -231,8 +231,7 @@ if size(all_mouse_number,1) ~= size(all_sig_sound_or,1)
     hoge
 end
 
-currentFolder = ['cd ',currentFolder];
-eval(currentFolder); %move directory
+cd(currentFolder); %move directory
 
 temp_kijyun = all_mean_trace ./ all_std_trace;
 [~,time_count] = size(all_sound);
