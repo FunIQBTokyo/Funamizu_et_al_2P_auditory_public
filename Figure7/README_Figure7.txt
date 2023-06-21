@@ -1,0 +1,8 @@
+Figure7A:
+tuning_curve_200401_block_encode7_with_decoder3_230607
+
+Figure7B:
+tuning_curve_180928_ROC_RE_each_FOV2_block3_230620
+
+Figure7CD:
+tuning_curve_230607_block_encode7_sound_neurons2
