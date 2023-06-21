@@ -1,0 +1,13 @@
+Figure5A:
+noise_correlation_20200122_sound_neurons_ver230620
+
+Figure5B,C:
+Noise_correlation_200122_all_neurons_ver230620
+
+Figure5D1:
+analysis_pipeline_all_sound1_190920_correct
+analysis_pipeline_all_sound1_190920_correct_20230620
+
+Figure5D2:
+analysis_pipeline_all_sound1_190909_noise_correlation_20230620
+
