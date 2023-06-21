@@ -1,0 +1,13 @@
+Figure6B,C,D:
+analysis_pipeline_all_sound1_190215_population4_ver20230607
+
+Figure6F:
+analysis_pipeline_all_sound1_230620_standard_only2_Fig6F
+
+Figure6G:
+analysis_pipeline_all_sound1_191219_population_ver20230620
+
+Figure6H:
+analysis_pipeline_all_sound1_190920_standard_only_no_context
+analysis_pipeline_all_sound1_190920_standard_only_non_auto
+
