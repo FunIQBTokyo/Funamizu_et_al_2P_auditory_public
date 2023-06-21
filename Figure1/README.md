@@ -1,15 +1,19 @@
 Figure1C: 
+
 Figure1C_20230324_get_parameter_one_session
 
 Figure1D: 
+
 Figure1D_20230530_get_parameter_full_model_stimulus
 Figure1D_20230530_get_parameter_full_model_reward
 
 Figure1E: 
+
 Figure1E_20230324_plot4_all2
 Figure1E_likeli_psychometric_20230530
 
 Figure1F: 
+
 Figure1F_20230324_plot4_get_parameter_plot_sessions
 Figure1F_20230531_get_optimal_threshold_stimulus_task
 Figure1F_20230531_get_optimal_threshold_reward_task
