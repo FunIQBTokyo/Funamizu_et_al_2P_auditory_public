@@ -1,0 +1,15 @@
+FigureS2A:
+same as Figure2D
+(Figure2D_sound_analysis_pipeline_180123_coordinate_each)
+(Figure2D_sound_analysis_pipeline_180123_coordinate)
+(Figure2D_plot_3D_2D_auditory_map_gauss)
+
+FigureS2B: 
+tuning_curve_190506_sound_only_compare_181021_ver20230531
+
+FigureS2C: 
+tuning_curve_230531_sound_only_compare_RE4_230725
+tuning_curve_230531_sound_only_compare_block4_prefer_230725
+
+FigureS2D: 
+tuning_curve_pure_tones_of_sound_neurons_190520_2_ver230531
