@@ -1,17 +1,6 @@
-FigureS7A:
-Decoding_analysis_neurometric_190717_compare_230607
-behave_analysis_block1_180520_lick_speed_frame_analysis2_230607
+FigureS7A: Same as Figure7A
+(tuning_curve_200401_block_encode7_with_decoder3_230607)
 
-FigureS7B:
-Decoding_analysis_neurometric_190717_compare_230607_reward
-behave_analysis_block1_180520_lick_speed_frame_analysis2_c23060
-
-FigureS7C:
-behave_analysis_block1_230727_lick_all4_2_2_all_choice_correct
-
-FigureS7D:
-tuning_curve_180928_ROC_RE_each_FOV2_230725_CorrectError
-
-FigureS7E:
-tuning_curve_190429_sound_only_compare_RE5_ver20230607
+FigureS7B,C: Same as Figure7C,D
+(tuning_curve_230607_block_encode7_sound_neurons2)
 
